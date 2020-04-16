@@ -6,6 +6,9 @@ public class GITWorkshopMarijke {
 
     public static void main(String[] args) {
         System.out.println("Hello World");
+        LoginController login = new LoginController();
+        
+        
 
     }
     
